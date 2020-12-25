@@ -5,7 +5,7 @@ after that
 
 Please go to this path
 
-han_hr\application\config
+han_hr\application\config\database.php
 
 
 you will find
